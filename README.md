@@ -9,4 +9,4 @@ Fronted en Javascript avec le framework React
 
 #RUN 
 
-npx expo start --android
+npx expo start ou npx expo start --android
